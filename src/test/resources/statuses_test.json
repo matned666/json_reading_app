@@ -1,0 +1,47 @@
+{
+	"next_offset":100,
+	"records":[
+	 {
+	   "kontakt_id": 1,
+	   "klient_id": 181,
+	   "pracownik_id": 107,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-03-24 03:38:31"
+	 },
+	 {
+	   "kontakt_id": 2,
+	   "klient_id": 72,
+	   "pracownik_id": 10,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-03-23 09:32:38"
+	 },
+	 {
+	   "kontakt_id": 3,
+	   "klient_id": 277,
+	   "pracownik_id": 119,
+	   "status": "zainteresowany",
+	   "kontakt_ts": "2017-09-22 07:06:16"
+	 },
+	 {
+	   "kontakt_id": 4,
+	   "klient_id": 36,
+	   "pracownik_id": 118,
+	   "status": "nie_ma_w_domu",
+	   "kontakt_ts": "2017-09-21 04:39:57"
+	 },
+	 {
+	   "kontakt_id": 5,
+	   "klient_id": 33,
+	   "pracownik_id": 161,
+	   "status": "poczta_glosowa",
+	   "kontakt_ts": "2017-09-20 04:12:12"
+	 },
+	 {
+	   "kontakt_id": 6,
+	   "klient_id": 244,
+	   "pracownik_id": 13,
+	   "status": "niezainteresowany",
+	   "kontakt_ts": "2017-09-19 02:26:30"
+	 }
+	]
+}
