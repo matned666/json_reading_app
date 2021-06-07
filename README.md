@@ -17,7 +17,7 @@ SQL Query:
 
 
 ------------------------------
-#TASK 3 with 2 bonus adds included
+# TASK 3 with 2 bonus adds included
 
 >WITH status AS (<br>
 SELECT DISTINCT klient_id,<br>
