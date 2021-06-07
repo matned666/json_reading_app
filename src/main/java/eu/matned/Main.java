@@ -53,7 +53,7 @@ SELECT CURRENT_DATE(),
   SUM(last_status = 'poczta_głosowa' OR last_status = 'nie_ma_w_domu') AS do_ponowienia,
   SUM(last_status = 'niezainteresowany' AND prev_status = 'zainteresowany') AS zainteresowani_utraty,
   SUM(last_status = 'zainteresowany' AND prev_status = 'niezainteresowany') AS niezainteresowani_sukcesy
-FROM status
+FROM status;
 
 */
 
